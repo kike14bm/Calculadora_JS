@@ -38,7 +38,7 @@ Esta es una calculadora web sencilla que permite realizar operaciones básicas (
 
 ## Requisitos
 
-Navegador moderno con soporte para JavaScript (Chrome, Firefox, Edge, Safari, etc).
+Navegador moderno con soporte para JavaScript (Chrome, Firefox, Edge, Safari, etc...).
 
 ---
 ## Capturas de la calculadora
