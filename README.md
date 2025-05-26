@@ -43,8 +43,7 @@ Navegador moderno con soporte para JavaScript (Chrome, Firefox, Edge, Safari, et
 ---
 
 ## Autor
-
-Enrique López Rubio
+[Kike14bm](https://github.com/kike14bm)
 
 ---
 
