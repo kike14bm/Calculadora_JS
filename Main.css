@@ -89,7 +89,7 @@ button:active {
 }
 
 /* Responsive para móviles */
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   .calculadora {
     width: 90%;
   }
@@ -111,7 +111,7 @@ button:active {
   }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 650px) {
     .numeros {
         border-bottom: 2px solid black;
     }
