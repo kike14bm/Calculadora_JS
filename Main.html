@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora Completa</title>
+  <link rel="stylesheet" href="Main.css">
+</head>
+<body>
+  <div class="calculadora">
+    <div id="pantalla">0</div>
+    <div class="teclado">
+      <div class="numeros">
+        <button onclick="agregar('1')">1</button>
+        <button onclick="agregar('2')">2</button>
+        <button onclick="agregar('3')">3</button>
+        <button onclick="agregar('4')">4</button>
+        <button onclick="agregar('5')">5</button>
+        <button onclick="agregar('6')">6</button>
+        <button onclick="agregar('7')">7</button>
+        <button onclick="agregar('8')">8</button>
+        <button onclick="agregar('9')">9</button>
+        <button onclick="agregar('0')">0</button>
+        <button onclick="agregar('.')">.</button>
+        <button onclick="borrar()">C</button>
+      </div>
+      <div class="operadores">
+        <button onclick="agregar('+')">+</button>
+        <button onclick="agregar('-')">-</button>
+        <button onclick="agregar('*')">×</button>
+        <button onclick="agregar('/')">÷</button>
+        <button onclick="calcular()">=</button>
+      </div>
+      <div class="cientifico-button">
+        <button onclick="toggleCientifica()">Científica</button>
+      </div>
+    </div>
+    <div class="cientifica" id="cientifica">
+      <button onclick="agregar('**')">^</button>
+      <button onclick="agregar('Math.sqrt(')">√</button>
+      <button onclick="agregar('Math.PI')">π</button>
+      <button onclick="agregar('Math.E')">e</button>
+    </div>
+  </div>
+  <script src="Main.js"></script>
+</body>
+</html>
