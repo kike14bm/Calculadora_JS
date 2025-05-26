@@ -43,16 +43,12 @@ Navegador moderno con soporte para JavaScript (Chrome, Firefox, Edge, Safari, et
 ---
 ## Capturas de la calculadora
 
-### Versión básica en escritorio
-![Calculadora básica escritorio](./capturasVisual/calculadora-basica.png)
-
-### Versión científica en escritorio
-![Calculadora científica escritorio](./capturasVisual/calculadora-cientifica.png)
-
-### Versión básica en móvil
+### Versión básica en escritorio // Versión básica en móvil
+![Calculadora básica escritorio](./capturasVisual/calculadora-basica.png) 
 ![Calculadora básica móvil](./capturasVisual/calculadora-movil-basica.png)
 
-### Versión científica en móvil
+### Versión científica en escritorio // Versión científica en móvil
+![Calculadora científica escritorio](./capturasVisual/calculadora-cientifica.png) 
 ![Calculadora científica móvil](./capturasVisual/calculadora-movil-cientifica.png)
 
 ## Autor
